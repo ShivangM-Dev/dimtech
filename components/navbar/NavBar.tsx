@@ -4,7 +4,6 @@ import { useState } from "react";
 import Link from "next/link";
 import navItems from "@/utils/data/nav.json";
 import Image from "next/image";
-
 type NavItem = {
   label: string;
   href?: string;
@@ -47,17 +46,17 @@ export default function Navbar() {
 
             {/* Logo / Brand Image */}
 
-            <Link href="/" className="flex flex-shrink-0 items-center">
-
+  <Link href="/" className="flex flex-shrink-0 items-center">
               <Image
                 src="/images/logo.png"
                 alt="DIMTECH Logo"
-                width={300}
-                height={300}
-                className="sm:h-10 md:h-auto w-auto  pt-10"
+                width={2400}
+                height={2400}
+                className="h-10 w-auto object-contain sm:h-12 md:h-16" 
                 priority
+
               />
-                          </Link> 
+            </Link>
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex md:items-center md:space-x-8">

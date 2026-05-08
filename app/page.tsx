@@ -1,6 +1,11 @@
+import Hero from "@/components/Home/hero";
+
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-background transition-colors duration-300">
+      <div>
+        <Hero/>
+      </div>
       <main className="flex w-full max-w-5xl flex-1 flex-col items-center justify-center px-6 text-center">
         
         {/* Main Heading using your Tory Blue (--primary) color */}
