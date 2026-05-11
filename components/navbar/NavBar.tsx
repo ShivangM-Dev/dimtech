@@ -40,7 +40,7 @@ export default function Navbar() {
     <>
       <nav className="sticky top-0 z-50 w-full border-b border-border bg-background shadow-sm transition-colors duration-300">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-       <div className="flex h-24      justify-between items-center">
+       <div className="flex h-24 justify-between items-center">
 
            
 
@@ -52,7 +52,7 @@ export default function Navbar() {
                 alt="DIMTECH Logo"
                 width={2400}
                 height={2400}
-                className="h-10 w-auto object-contain sm:h-12 md:h-16" 
+                className="h-14 w-auto object-contain sm:h-12 md:h-16" 
                 priority
 
               />
