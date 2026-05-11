@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Operations (Supply Chain Management)",
+    "description": "Learn the intricacies of efficient production, logistics, and supply chain strategies.",
+    "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/operations"
+  },
+  {
+    "title": "International Business",
+    "description": "Acquire insights into global markets, international trade, and cross-cultural business practices.",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/international-business"
+  },
+  {
+    "title": "Information Technology",
+    "description": "Dive into the intersection of technology and management, exploring IT strategies and digital transformation.",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/it"
+  },
+  {
+    "title": "Marketing",
+    "description": "Master the art of consumer behavior, branding, and innovative strategies to thrive in a dynamic marketplace.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/marketing"
+  },
+  {
+    "title": "Finance",
+    "description": "Gain in-depth knowledge of financial management, investments, and analytics to excel in the financial sector.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/finance"
+  },
+  {
+    "title": "Business Analytics",
+    "description": "Harness the power of data to make informed business decisions and drive growth.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/business-analytics"
+  },
+  {
+    "title": "Human Resource Management",
+    "description": "Develop skills in talent acquisition, employee relations, and organizational development for impactful people management.",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=800&auto=format&fit=crop",
+    "link": "/programs/hrm"
+  }
+]

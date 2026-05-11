@@ -1,5 +1,7 @@
 import BG_Video from "@/components/Home/bg_video";
 import Hero from "@/components/Home/hero";
+import Excellence from "@/components/Home/Excellence";
+import ProgramsCarousel from "@/components/Home/ProgramsCarousel";
 
 export default function Home() {
   return (
@@ -8,7 +10,8 @@ export default function Home() {
         <BG_Video/>
       </div>
       <Hero/>
-     
+      <Excellence/>
+     <ProgramsCarousel/>
      
     </div>
   );

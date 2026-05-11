@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Design Thinking",
+    "description": "A human-centered, iterative approach to problem-solving that emphasizes empathy, creativity, and experimentation.",
+    "icon": "Brain"
+  },
+  {
+    "title": "Domain Expertise",
+    "description": "Our experts possess specialized knowledge and skills in specific areas of interest, professions, or industries.",
+    "icon": "Factory"
+  },
+  {
+    "title": "Collaborative Learning",
+    "description": "An educational approach where groups of learners work together to solve problems and master new concepts.",
+    "icon": "Users"
+  }
+]
