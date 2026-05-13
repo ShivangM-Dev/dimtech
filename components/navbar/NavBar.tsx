@@ -46,13 +46,13 @@ export default function Navbar() {
 
             {/* Logo / Brand Image */}
 
-  <Link href="/" className="flex flex-shrink-0 items-center">
+            <Link href="/" className="flex items-center">
               <Image
                 src="/images/logo.png"
                 alt="DIMTECH Logo"
-                width={2400}
-                height={2400}
-                className="h-14 w-auto object-contain sm:h-12 md:h-16" 
+                width={300}
+                height={300}
+                className="h-auto mt-7" 
                 priority
 
               />

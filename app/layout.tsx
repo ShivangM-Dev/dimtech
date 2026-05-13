@@ -4,6 +4,7 @@ import "@/app/globals.css";
 import { cn } from "@/lib/utils";
 import NoticeStrip from "@/components/notice_strip/noticeStrip";
 import Navbar from "@/components/navbar/NavBar";
+import Footer from "@/components/footer/Footer";
 
 const inter = Inter({subsets:['latin'],variable:'--font-sans'});
 
@@ -36,7 +37,7 @@ export default function RootLayout({
         <NoticeStrip/>
         <Navbar/>
         {children}
-        
+        <Footer/>
       </body>
     </html>
   );

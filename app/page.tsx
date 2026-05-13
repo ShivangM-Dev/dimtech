@@ -2,6 +2,9 @@ import BG_Video from "@/components/Home/bg_video";
 import Hero from "@/components/Home/hero";
 import Excellence from "@/components/Home/Excellence";
 import ProgramsCarousel from "@/components/Home/ProgramsCarousel";
+import SalientFeatures from "@/components/Home/SalientFeatures";
+import CampusCTA from "@/components/Home/CampusCTA";
+import FaqSection from "@/components/Home/faqsection";
 
 export default function Home() {
   return (
@@ -12,6 +15,9 @@ export default function Home() {
       <Hero/>
       <Excellence/>
      <ProgramsCarousel/>
+     <SalientFeatures/>
+     {/* <CampusCTA/> */}
+     <FaqSection/>
      
     </div>
   );
