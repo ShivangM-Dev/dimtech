@@ -31,14 +31,14 @@ const Footer: React.FC = () => {
   ];
 
   return (
-    <footer className="w-full bg-[#1e1e1e] text-slate-300 font-sans">
+    <footer className="w-full bg-[#1e1e1e] font-sans text-slate-300">
       {/* Main Footer Content */}
       <div className="mx-auto max-w-[90rem] px-4 py-16 sm:px-8 lg:px-24">
         <div className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-4 lg:gap-8">
           
           {/* Column 1: QUICK LINKS */}
           <div className="flex flex-col">
-            <h3 className="mb-6 text-lg font-bold text-white uppercase tracking-wider underline decoration-2 underline-offset-8 decoration-slate-500">
+            <h3 className="mb-6 text-lg font-bold uppercase tracking-wider text-white underline decoration-slate-500 decoration-2 underline-offset-8">
               QUICK LINKS
             </h3>
             <ul className="flex flex-col space-y-3">
@@ -46,7 +46,7 @@ const Footer: React.FC = () => {
                 <li key={link.name}>
                   <Link 
                     href={link.href}
-                    className="text-sm font-medium transition-all duration-300 hover:text-blue-400 hover:translate-x-1 inline-block"
+                    className="inline-block text-sm font-medium transition-all duration-300 hover:-translate-y-0.5 hover:text-primary"
                   >
                     {link.name}
                   </Link>
@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
 
           {/* Column 2: PROGRAMS */}
           <div className="flex flex-col">
-            <h3 className="mb-6 text-lg font-bold text-white uppercase tracking-wider underline decoration-2 underline-offset-8 decoration-slate-500">
+            <h3 className="mb-6 text-lg font-bold uppercase tracking-wider text-white underline decoration-slate-500 decoration-2 underline-offset-8">
               PROGRAMS
             </h3>
             <ul className="flex flex-col space-y-3">
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
                 <li key={link.name}>
                   <Link 
                     href={link.href}
-                    className="text-sm font-medium transition-all duration-300 hover:text-blue-400 hover:translate-x-1 inline-block"
+                    className="inline-block text-sm font-medium transition-all duration-300 hover:-translate-y-0.5 hover:text-primary"
                   >
                     {link.name}
                   </Link>
@@ -76,7 +76,7 @@ const Footer: React.FC = () => {
 
           {/* Column 3: ADMISSION */}
           <div className="flex flex-col">
-            <h3 className="mb-6 text-lg font-bold text-white uppercase tracking-wider underline decoration-2 underline-offset-8 decoration-slate-500">
+            <h3 className="mb-6 text-lg font-bold uppercase tracking-wider text-white underline decoration-slate-500 decoration-2 underline-offset-8">
               ADMISSION
             </h3>
             <ul className="flex flex-col space-y-3">
@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
                 <li key={link.name}>
                   <Link 
                     href={link.href}
-                    className="text-sm font-medium transition-all duration-300 hover:text-blue-400 hover:translate-x-1 inline-block"
+                    className="inline-block text-sm font-medium transition-all duration-300 hover:-translate-y-0.5 hover:text-primary"
                   >
                     {link.name}
                   </Link>
@@ -95,25 +95,25 @@ const Footer: React.FC = () => {
 
           {/* Column 4: CONTACT US */}
           <div className="flex flex-col">
-            <h3 className="mb-6 text-lg font-bold text-white uppercase tracking-wider underline decoration-2 underline-offset-8 decoration-slate-500">
+            <h3 className="mb-6 text-lg font-bold uppercase tracking-wider text-white underline decoration-slate-500 decoration-2 underline-offset-8">
               CONTACT US
             </h3>
             <ul className="flex flex-col space-y-4">
               <li className="flex items-start gap-3">
                 <Phone className="mt-0.5 h-5 w-5 shrink-0 text-slate-400" />
-                <a href="tel:18002707021" className="text-sm font-medium transition-colors hover:text-white">
+                <a href="tel:18002707021" className="text-sm font-medium transition-colors hover:text-primary">
                   1800 270 7021
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <Phone className="mt-0.5 h-5 w-5 shrink-0 text-slate-400" />
-                <a href="tel:01204908596" className="text-sm font-medium transition-colors hover:text-white">
+                <a href="tel:01204908596" className="text-sm font-medium transition-colors hover:text-primary">
                   0120 490 8596
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="mt-0.5 h-5 w-5 shrink-0 text-slate-400" />
-                <a href="mailto:info@dimtech.org" className="text-sm font-medium transition-colors hover:text-white">
+                <a href="mailto:info@dimtech.org" className="text-sm font-medium transition-colors hover:text-primary">
                   info@dimtech.org
                 </a>
               </li>
@@ -133,7 +133,7 @@ const Footer: React.FC = () => {
       </div>
 
       {/* Bottom Copyright Bar */}
-      <div className="w-full bg-black py-6 text-center border-t border-slate-800">
+      <div className="w-full border-t border-slate-800 bg-black py-6 text-center">
         <p className="px-4 text-sm font-medium text-slate-400">
           Copyright © {new Date().getFullYear()} Divine Institute of Management & Technology (DIMTECH)
         </p>

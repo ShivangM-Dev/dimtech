@@ -5,6 +5,9 @@ import { cn } from "@/lib/utils";
 import NoticeStrip from "@/components/notice_strip/noticeStrip";
 import Navbar from "@/components/navbar/NavBar";
 import Footer from "@/components/footer/Footer";
+import ScrollToTop from "@/components/ScrollToTop/ScrollToTop";
+import WhatsAppWidget from "@/components/WhatasppWidget/WhatsAppWidget";
+
 
 const inter = Inter({subsets:['latin'],variable:'--font-sans'});
 
@@ -38,6 +41,8 @@ export default function RootLayout({
         <Navbar/>
         {children}
         <Footer/>
+        <WhatsAppWidget/>
+      <ScrollToTop/>
       </body>
     </html>
   );
