@@ -82,9 +82,9 @@ const WhatsAppWidget: React.FC<WhatsAppWidgetProps> = ({
               <Image 
                 src="/images/chatLogo.png" 
                 alt="DIMTech Logo"
-                width={40}
-                height={40}
-                className="h-full w-full object-cover scale-[1.25]" 
+                width={100}
+                height={100}
+                className="h-14 w-12 object-cover pt-3 scale-[2]" 
               />
             </div>
             {/* ----------------------- */}
