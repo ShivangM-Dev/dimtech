@@ -56,7 +56,7 @@ const WhatsAppWidget: React.FC<WhatsAppWidgetProps> = ({
 
   return (
     <div 
-      className={`fixed bottom-24 right-8 z-50 flex flex-col items-end transition-all duration-300 ${
+      className={`fixed bottom-20 right-4 sm:bottom-24 sm:right-8 z-50 flex flex-col items-end transition-all duration-300 ${
         isVisible 
           ? 'translate-y-0 opacity-100 pointer-events-auto' 
           : 'translate-y-10 opacity-0 pointer-events-none'
@@ -65,7 +65,8 @@ const WhatsAppWidget: React.FC<WhatsAppWidgetProps> = ({
       
       {/* --- Chat Window --- */}
       <div 
-        className={`mb-4 w-[360px] overflow-hidden rounded-2xl border border-slate-200 bg-[#E5DDD5] shadow-2xl origin-bottom-right transition-all duration-300 ${
+        // MOBILE OVERFLOW FIX: Changed to w-[calc(100vw-3rem)] to ensure it never touches the screen edges
+        className={`mb-4 w-[calc(100vw-3rem)] sm:w-[360px] max-w-[360px] overflow-hidden rounded-2xl border border-slate-200 bg-[#E5DDD5] shadow-2xl origin-bottom-right transition-all duration-300 ${
           isOpen ? 'scale-100 opacity-100' : 'pointer-events-none scale-95 opacity-0'
         }`}
         style={{
@@ -81,23 +82,21 @@ const WhatsAppWidget: React.FC<WhatsAppWidgetProps> = ({
               <Image 
                 src="/images/chatLogo.png" 
                 alt="DIMTech Logo"
-                width={100}
-                height={100}
-                // scale-[1.2] zooms in by 20% to hide the built-in white padding from the PNG!
-                // If it's still slightly too small, change it to scale-[1.3] or scale-125
-                className="h-10 w-10 object-cover pt-2.5 scale-[2.5]" 
+                width={40}
+                height={40}
+                className="h-full w-full object-cover scale-[1.25]" 
               />
             </div>
             {/* ----------------------- */}
 
             <div className="flex flex-col">
               <h3 className="text-[17px] font-semibold leading-tight tracking-wide">DIMTech</h3>
-              <p className="text-[13px] text-slate-200">Best MBA Institute in Greater Noida</p>
+              <p className="text-[13px] text-slate-200 line-clamp-1">Best MBA Institute in Greater Noida</p>
             </div>
           </div>
           <button 
             onClick={() => setIsOpen(false)}
-            className="rounded-full p-1.5 transition-colors hover:bg-white/20 focus:outline-none focus:ring-2 focus:ring-white"
+            className="rounded-full p-1.5 transition-colors hover:bg-white/20 focus:outline-none focus:ring-2 focus:ring-white shrink-0"
             aria-label="Close chat"
           >
             <X className="h-6 w-6" strokeWidth={1.5} />
@@ -131,8 +130,8 @@ const WhatsAppWidget: React.FC<WhatsAppWidgetProps> = ({
             className="flex items-center gap-2"
           >
             {/* Pill-shaped input container */}
-            <div className="flex h-12 flex-1 items-center rounded-full bg-white px-4 shadow-sm">
-              <Smile className="mr-3 h-6 w-6 text-slate-400" strokeWidth={1.5} />
+            <div className="flex h-12 flex-1 items-center rounded-full bg-white px-3 sm:px-4 shadow-sm">
+              <Smile className="mr-2 sm:mr-3 h-6 w-6 text-slate-400 shrink-0" strokeWidth={1.5} />
               <input
                 ref={inputRef}
                 type="text"
