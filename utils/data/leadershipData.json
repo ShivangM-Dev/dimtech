@@ -1,0 +1,70 @@
+{
+  "director": {
+    "tagline": "Leadership & Vision",
+    "name": "Dr. Abhishek Bhadouria",
+    "statusLine": "Director",
+    "title": "DIMTECH Group of Institutions",
+    "imageSrc": "/images/director.webp",
+    "imageAlt": "Dr. Abhishek Bhadouria - Director of DIMTECH",
+    "paragraphs": [
+      "Dr. Abhishek Bhadouria brings over 22 years of academic and administrative experience in higher education. With a strong background in teaching, research, and institutional leadership, he has contributed significantly to academic excellence and professional education across reputed institutions."
+    ],
+    "quote": "Education should empower students with confidence, practical skills, and future-ready thinking.",
+    "experienceTitle": "Academic Leadership & Experience",
+    "experienceCards": [
+      {
+        "icon": "graduation",
+        "title": "22+ Years of Academic Experience",
+        "description": "Dr. Abhishek Bhadouria brings more than two decades of experience in higher education, academic administration, and institutional development. His journey reflects a strong commitment to academic excellence, student growth, and innovation-driven learning environments."
+      },
+      {
+        "icon": "landmark",
+        "title": "Leadership Across Reputed Institutions",
+        "description": "He has served as Faculty of Accounting & Finance at Birla Institute of Technology for 18 years and has also held leadership roles as Director at GL Bajaj Group of Institutions and Sandip University, contributing significantly to institutional growth and academic quality."
+      },
+      {
+        "icon": "mountain",
+        "title": "Commitment to Future-Focused Education",
+        "description": "With a student-centric approach, Dr. Abhishek Bhadouria believes in combining practical learning, research, and professional development to prepare students for modern industry challenges, future career opportunities, and continuous academic and personal growth successfully."
+      }
+    ],
+    "researchTitle": "RESEARCH & ACADEMIC CONTRIBUTIONS",
+    "researchParagraphs": [
+      "Dr. Abhishek Bhadouria has actively contributed to academic research and knowledge development through research publications, conference presentations, and academic collaborations. His research work has been published in Scopus, ABDC, and UGC Care indexed journals, reflecting strong academic and research engagement.",
+      "He has presented papers at more than 25 national and international conferences and has authored two academic books contributing to the field of management and higher education."
+    ],
+    "researchStats": [
+      { "value": "22+", "label": "Research Papers" },
+      { "value": "25+", "label": "Conference Presentations" },
+      { "value": "2", "label": "Published Books" }
+    ],
+    "engagementTitle": "Academic Engagement With Premier Institutions",
+    "engagementDescription": "Dr. Bhadouria has participated in workshops, seminars, and academic programs conducted by leading institutions across India, reflecting his continuous commitment to academic excellence and professional development.",
+    "engagementCards": [
+      {
+        "institution": "IIM Ahmedabad",
+        "description": "Participation in academic workshops and professional development programs."
+      },
+      {
+        "institution": "IIM Calcutta",
+        "description": "Engagement in seminars and higher education learning initiatives."
+      },
+      {
+        "institution": "IIM Kozhikode",
+        "description": "Participation in academic and management-focused programs."
+      },
+      {
+        "institution": "IIT Delhi",
+        "description": "Academic discussions and workshops focused on innovation and education."
+      },
+      {
+        "institution": "IIT Roorkee",
+        "description": "Participation in institutional seminars and professional learning activities."
+      },
+      {
+        "institution": "IIT Kharagpur",
+        "description": "Academic engagement through workshops and educational programs."
+      }
+    ]
+  }
+}

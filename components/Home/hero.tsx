@@ -188,7 +188,7 @@ const Hero = () => {
               
               <div className="text-base leading-relaxed text-muted-foreground sm:text-lg text-justify">
                 
-                {/* ALWAYS VISIBLE: 1st Paragraph (Removed mb-5 for better dynamic spacing) */}
+                {/* ALWAYS VISIBLE: 1st Paragraph */}
                 <p className="gsap-about-text-right">
                   <span className="font-bold text-primary">Divine Institute</span> is committed to delivering an education that seamlessly blends academic excellence with industry relevance through our specialized Management program in Knowledge Park, Greater Noida.
                 </p>
@@ -201,13 +201,21 @@ const Hero = () => {
                 >
                   <div className="overflow-hidden space-y-5">
                     <p className="gsap-about-text-right">
-                      We offer a diverse range of specializations in our <strong className="text-foreground">Management Programs</strong> including <strong className="text-foreground">IT, Marketing, Finance, Business Analytics, HRM, Supply Chain & Operations Management, International Business, and AI in Predictive Analysis.</strong>
+                      We offer a diverse range of specializations in our <strong className="text-foreground">Programs</strong> including <strong className="text-foreground">IT, Marketing, Finance, Business Analytics, HRM, Supply Chain & Operations Management, International Business, and AI in Predictive Analysis.</strong>
                     </p>
                     
-                    <p className="gsap-about-text-right">
-                      <strong className="text-foreground">Eligibility:</strong> Minimum 50% in graduation (45% for SC/ST) + valid score in CMAT, CAT, XAT, MAT, NMAT, or our DIMTECH Aptitude Test (DMAT).
-                    </p>
-                    
+                    {/* UPDATED ELIGIBILITY CRITERIA */}
+                    <div className="gsap-about-text-right rounded-xl bg-slate-50 p-5 ring-1 ring-slate-100 dark:bg-muted/50 dark:ring-border/50">
+                      <strong className="mb-3 block text-foreground">Eligibility Criteria:</strong>
+                      <ul className="ml-4 list-outside list-disc space-y-2 text-sm sm:text-base">
+                        <li><strong className="text-foreground">BBA:</strong> 12th in any stream</li>
+                        <li><strong className="text-foreground">MBA:</strong> Graduation in any stream</li>
+                        <li><strong className="text-foreground">BCA:</strong> 12th in any stream, Maths in 10th</li>
+                        <li><strong className="text-foreground">MCA:</strong> Graduation in any stream, Maths in 10+2</li>
+                      </ul>
+                    </div>
+                    {/* END OF UPDATED CRITERIA */}
+
                     <p className="gsap-about-text-right">
                       We empower students with the essential knowledge, skills, and ethical grounding required to lead in today’s dynamic business world.
                     </p>
@@ -218,7 +226,7 @@ const Hero = () => {
                   </div>
                 </div>
 
-                {/* MOBILE ONLY: Read More / Read Less Button (MOVED HERE TO RIDE DOWN WITH TEXT) */}
+                {/* MOBILE ONLY: Read More / Read Less Button */}
                 <button 
                   onClick={() => setIsExpanded(!isExpanded)}
                   className="gsap-about-text-right mt-5 flex w-fit items-center gap-2 rounded-full bg-primary/10 px-4 py-2 text-sm font-semibold text-primary transition-colors hover:bg-primary/20 lg:hidden"

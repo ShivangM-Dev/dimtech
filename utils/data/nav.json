@@ -8,6 +8,11 @@
     "children": [
       { "label": "About Us", "href": "/about_us" },
       { "label": "Chairman's Message", "href": "/chairman_message" },
+      { "label": "Our Vision & Mission", "href": "/chairman_message/#mission-vision" },
+      { "label": "Director's Message", "href": "/director_message" },
+      { "label": "Academic Council", "href": "/academic_council" },
+      { "label": "Advisory Board", "href": "/advisory_board" },
+      { "label": "Our Recruiters", "href": "/our_recruiters" },
       { "label": "Management", "href": "/management" }
     ]
   },

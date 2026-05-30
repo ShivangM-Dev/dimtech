@@ -48,8 +48,8 @@ export default function RootLayout({
         </main>
         
         <Footer/>
-        <WhatsAppWidget/>
-        <ScrollToTop/>
+        {/* <WhatsAppWidget/>
+        <ScrollToTop/> */}
       </body>
     </html>
   );
