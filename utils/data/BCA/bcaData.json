@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "titlePrefix": "No.1 BCA College in Greater Noida | ",
+    "titleHighlight": "DIMTECH",
+    "descStart": "Are you looking for the ",
+    "descBold": "Best BCA College in Greater Noida",
+    "descEnd": "? Look around—every industry today is a tech industry. A Bachelor of Computer Applications (BCA) is your direct launchpad into this booming IT sector."
+  },
+  "whyChooseCourse": {
+    "title": "Why Choose a Bachelor of Computer Applications (BCA)?",
+    "intro": "Look around—every industry today is a tech industry. From the apps on your phone to the cloud infrastructure powering global finance, the digital world runs on code. A Bachelor of Computer Applications (BCA) is your direct launchpad into this booming IT sector. This degree is designed to take you far beyond basic computer literacy. It transforms tech enthusiasts into elite software developers, system architects, and visionary tech leaders. Whether your goal is to build the next viral application, manage complex databases, or lead massive engineering projects, a BCA gives you the exact toolkit you need.",
+    "reasons": [
+      {
+        "title": "In-Demand Development Skills",
+        "description": "Dive deep into the core programming languages, modern web frameworks, and software engineering principles that top-tier tech companies are desperately looking for."
+      },
+      {
+        "title": "A Fast-Tracked Tech Career",
+        "description": "Stop waiting. IT recruiters universally recognize the BCA as the gold-standard credential for landing roles as a developer, technical analyst, or IT consultant straight out of college."
+      },
+      {
+        "title": "Algorithmic Problem-Solving",
+        "description": "Train your brain to think like an engineer. You'll master the robust logic required to solve complex digital roadblocks and optimize software performance."
+      },
+      {
+        "title": "The Path to Tech Leadership",
+        "description": "You won't just learn to follow instructions. You'll gain the project execution skills and architectural vision required to eventually manage engineering teams and lead tech-driven enterprises."
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose DIMTECH for Your BCA?",
+    "subtitle": "At DIMTECH, we don’t just teach you syntax—we engineer visionary tech leaders. Here is how we make your BCA degree undeniably more valuable:",
+    "benefits": [
+      "100% Written Placement Guarantee",
+      "Exclusive Integrated AI Certification",
+      "Intensive Personality Development",
+      "Fully Wi-Fi Enabled Campus",
+      "In-Demand Development Skills",
+      "Algorithmic Problem-Solving",
+      "Path to Tech Leadership",
+      "Fast-Tracked Tech Career"
+    ],
+    "description": "Anyone can learn to write a few lines of code online. But to truly stand out, you need cutting-edge skills, corporate backing, and executive presence. Whether your goal is to build the next viral application, manage complex databases, or lead massive engineering projects, a BCA gives you the exact toolkit you need. Ready to Code the Future? Elevate your technical skills, master artificial intelligence, and secure your career before you even graduate.",
+    "buttonText": "Apply Now"
+  },
+  "admissionsProcess": {
+    "title": "BCA Admissions Process",
+    "description": "Ready to kickstart your journey in IT? The admission process at DIMTECH is simple and straightforward. Our staff members and counseling experts will guide you through each step with clarity.",
+    "steps": [
+      {
+        "icon": "form",
+        "title": "Form Filling",
+        "description": "Collect the form at the DIMTECH Campus or from the DIMTECH Information Center. Fill the form accurately and proceed with the admission."
+      },
+      {
+        "icon": "documentation",
+        "title": "Documentation",
+        "description": "Come along with your documents, such as your 10+2 marksheet, [Aadhaar Redacted], and 2 passport-size photos, to proceed with further steps without any hassle."
+      },
+      {
+        "icon": "counseling",
+        "title": "Counseling Session",
+        "description": "After that, an expert counselor will guide you with specialization selection and career path, and lead you towards the right direction.",
+        "highlight": true
+      },
+      {
+        "icon": "confirmation",
+        "title": "Seat Confirmation",
+        "description": "Wait for some time. Our faculty will ensure everything is correct and official. We can proceed with your admissions. Then, pay the registration amount, and your seat confirmation will be successful."
+      }
+    ]
+  },
+  "placement": [
+    {
+      "icon": "briefcase",
+      "title": "INTERNSHIPS",
+      "description": "We provide paid internships after 1 year of the course curriculum."
+    },
+    {
+      "icon": "userCog",
+      "title": "EXPOSURE",
+      "description": "We provide a practical learning environment, live projects, international industrial tour for better exposure."
+    },
+    {
+      "icon": "users",
+      "title": "GUIDANCE",
+      "description": "We help you with specializations/electives selection guidance, expert mentorship workshops, mock interviews, and aptitude tests."
+    },
+    {
+      "icon": "fileCheck",
+      "title": "PLACEMENT",
+      "description": "100% Placement Guarantee, MNCs come to the college for placements. You need to prepare for the interview, projects, & confidence."
+    }
+  ],
+  "eligibility": {
+    "title": "BCA Eligibility Criteria",
+    "items": [
+      {
+        "icon": "badgeCheck",
+        "title": "Educational Qualification",
+        "description": "Successfully passed 10+2 (12th Grade) from any recognized educational board."
+      },
+      {
+        "icon": "clipboardList",
+        "title": "Accepted Streams",
+        "description": "We welcome students from any stream (Arts, Commerce, or Science)."
+      },
+      {
+        "icon": "fileEdit",
+        "title": "Subject Requirement",
+        "description": "You must have studied and passed Mathematics in your 10th Grade."
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Communication and presentation skills",
+    "icon": "presentation",
+    "description": "Building confidence is about speaking confidently and presenting simply with easy words."
+  },
+  {
+    "title": "Leadership and teamwork abilities",
+    "icon": "users",
+    "description": "Handling a team with lots of people can make you nervous. That's why we provide live/practical team management experience to build leadership in you."
+  },
+  {
+    "title": "Analytical and decision-making skills",
+    "icon": "brain",
+    "description": "Avoid overthinking and build quick decision-making to save time. And learn analytical skills to make decisions based on the data instead of assumptions."
+  },
+  {
+    "title": "Problem-solving approach",
+    "icon": "lightbulb",
+    "description": "Analyze based on the situation where the problem is, and look for the solution accordingly. Avoid overthinking and discussing, just take action towards the solution."
+  },
+  {
+    "title": "Basic data interpretation",
+    "icon": "barchart",
+    "description": "Make the data organized and understandable. Learn to manage information and use it wisely in corporate day-to-day tasks."
+  },
+  {
+    "title": "Professional confidence",
+    "icon": "briefcase",
+    "description": "Developing professional confidence is not an easy task. You need to practice it with your inner self, practical learning, live projects, and communication."
+  }
+]

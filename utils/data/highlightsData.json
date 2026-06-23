@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Mentorship from Industry Leaders",
+    "icon": "users",
+    "description": "Learn directly from internationally acclaimed corporate leaders, adjunct faculty members, and professors of practice. Gain firsthand insights into industry trends and expertise from top professionals."
+  },
+  {
+    "title": "Empowering Resources",
+    "icon": "laptop",
+    "bullets": [
+      {
+        "label": "Free Laptop",
+        "text": "Every Management student is equipped with a complimentary laptop, ensuring seamless access to digital resources."
+      },
+      {
+        "label": "Certifications",
+        "text": "Choose from 15 diverse certification courses, spanning all management domains, to stay ahead in your field."
+      }
+    ]
+  },
+  {
+    "title": "Dynamic Specializations",
+    "icon": "target",
+    "bullets": [
+      {
+        "text": "Dual specialization options and the flexibility of major/minor combinations customized to your career goals."
+      },
+      {
+        "text": "Comprehensive curriculum blending theoretical knowledge with practical applications, designed to cater to key areas of interest."
+      }
+    ]
+  },
+  {
+    "title": "Global Exposure",
+    "icon": "globe",
+    "bullets": [
+      {
+        "label": "International Excursion Trips",
+        "text": "Meritorious students enjoy trips abroad, exploring global industries and academic institutions."
+      },
+      {
+        "label": "International Exchange Programs",
+        "text": "Tie-ups with prestigious universities offer unparalleled global exposure."
+      }
+    ]
+  },
+  {
+    "title": "Flexible & Affordable",
+    "icon": "wallet",
+    "bullets": [
+      {
+        "text": "Scholarships for outstanding students, based on academic performance and competitive exam scores like MAT, CAT, XAT, and CMAT."
+      },
+      { 
+        "text": "Easy fee installment plans to ensure affordability." 
+      }
+    ]
+  },
+  {
+    "title": "Industry Integration & Practical Learning",
+    "icon": "building",
+    "bullets": [
+      { 
+        "text": "40% of each course is taught by experienced industry experts." 
+      },
+      {
+        "text": "Industrial visits to leading companies like Parle, Oppo, Coca-Cola, Amul, Yakult, and more, offering hands-on learning experiences."
+      },
+      {
+        "text": "Summer internships for a minimum of 6 months with Pre-Placement Offers (PPOs)."
+      },
+      {
+        "text": "Live projects, HR talk series, and specialization conclaves hosted by industry veterans."
+      }
+    ]
+  },
+  {
+    "title": "Career-Accelerating Opportunities",
+    "icon": "rocket",
+    "bullets": [
+      {
+        "text": "Dedicated placement cell connecting students to top-tier companies across sectors."
+      },
+      {
+        "text": "Live projects (7–15 days) to immerse students in real-world industry environments."
+      },
+      {
+        "text": "Guaranteed final placements aligning with students' interests and aspirations."
+      }
+    ]
+  },
+  {
+    "title": "Holistic Development for Future Leaders",
+    "icon": "brain",
+    "description": "Beyond academics, our program focuses on leadership, entrepreneurship, communication, and soft skills development to prepare students for every challenge in their professional journey."
+  }
+]

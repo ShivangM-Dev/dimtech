@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Marketing",
+    "icon": "megaphone",
+    "iconColor": "text-pink-500",
+    "bgColor": "bg-pink-100",
+    "description": "Building a business is not an easy task, and Marketing is one of its pillars. Knowing your customer leads to the right audience targeting and drives results. Learn strategies, pricing, and advertising."
+  },
+  {
+    "title": "Human Resource Management",
+    "icon": "users",
+    "iconColor": "text-orange-500",
+    "bgColor": "bg-orange-100",
+    "description": "Learn how to hire the right talent, manage employees effectively, understand workplace behavior, and build a people-first work culture that drives growth and harmony."
+  },
+  {
+    "title": "Finance",
+    "icon": "dollar",
+    "iconColor": "text-purple-600",
+    "bgColor": "bg-purple-100",
+    "description": "Handling others' money is not a joke. That's why investment & portfolio management, tax planning, and credit risk analysis are required. Pursue an BBA in Finance and be the master of it."
+  },
+  {
+    "title": "Operations",
+    "icon": "settings",
+    "iconColor": "text-blue-500",
+    "bgColor": "bg-blue-100",
+    "description": "Master the art of process optimization, supply chain management, and quality control to ensure business operations run smoothly, efficiently, and cost-effectively."
+  },
+  {
+    "title": "Information Technology",
+    "icon": "monitor",
+    "iconColor": "text-blue-500",
+    "bgColor": "bg-blue-100",
+    "description": "Learn the latest technologies, IT fundamentals, databases, software tools, and create an impact on the businesses around you. Develop machines and build new things with DIMTECH’s practical exposure."
+  },
+  {
+    "title": "Cooperative Management",
+    "icon": "handshake",
+    "iconColor": "text-yellow-500",
+    "bgColor": "bg-yellow-100",
+    "description": "Learn the art of managing societies through democratic systems and laws. Gain knowledge about the principles and practices of co-operation, co-operative legislation, and credit co-operatives. Master etiquette, working style, developing rules and regulations, and think about members/employees for financial help."
+  }
+]

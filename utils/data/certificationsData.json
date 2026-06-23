@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Digital Marketing",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+    "description": "Our Digital Marketing Certification program is designed to help students master online marketing strategies, including Search Engine Optimization (SEO), social media marketing, content creation, email marketing, and data analytics. By learning to optimize digital campaigns, students can drive business growth and brand awareness in today’s digital World."
+  },
+  {
+    "title": "Financial Analytics",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+    "description": "This certification focuses on financial data analysis and its applications in investment, budgeting, and financial planning. Students will learn to use analytical tools and techniques to assess financial data, helping businesses make informed decisions and maximize profitability."
+  },
+  {
+    "title": "Marketing",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=800",
+    "description": "Our Marketing Certification provides an in-depth understanding of both traditional and digital marketing strategies. Students will explore consumer behavior, market research, branding, and advertising techniques to prepare for various marketing roles in industries worldwide."
+  },
+  {
+    "title": "Project Management",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800",
+    "description": "This certification is ideal for individuals seeking expertise in managing projects efficiently. The program covers essential topics such as risk management, budgeting, scheduling, leadership, and project execution. It prepares students to handle projects from initiation to successful completion."
+  },
+  {
+    "title": "Data Analytics",
+    "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&q=80&w=800",
+    "description": "Data is the key to business success, and this certification helps students develop analytical skills to interpret data effectively. Topics covered include statistical techniques, data visualization, predictive analytics, and big data tools that are widely used across industries."
+  },
+  {
+    "title": "BI and CRM Software",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800",
+    "description": "This certification focuses on tools like Business Intelligence (BI) platforms and Customer Relationship Management (CRM) software. Students will learn how to optimize customer relationships, analyze business performance, and make data-driven decisions to improve operational efficiency."
+  },
+  {
+    "title": "Human Resource",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&q=80&w=800",
+    "description": "Our Human Resource Certification program equips students with knowledge in recruitment, talent management, organizational behavior, performance management, and employee relations. It is designed to prepare students for leadership roles in HR departments across various industries."
+  },
+  {
+    "title": "Leadership and Soft Skills",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    "description": "Soft skills are essential for professional success. This certification enhances communication, teamwork, problem-solving, emotional intelligence, and leadership techniques. It prepares students to excel in both personal and professional environments."
+  },
+  {
+    "title": "Entrepreneurship and Innovations",
+    "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&q=80&w=800",
+    "description": "This certification is perfect for aspiring entrepreneurs and innovators. It provides insights into starting and managing new ventures, risk management, funding strategies, and creative problem-solving, helping students build successful businesses."
+  },
+  {
+    "title": "Supply Chain and Operations Management",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80&w=800",
+    "description": "Supply chain efficiency is crucial for business success. This certification teaches students about logistics, inventory management, procurement, and optimizing operations to reduce costs and improve efficiency within businesses."
+  },
+  {
+    "title": "Cybersecurity",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=800",
+    "description": "With rising cyber threats, this certification prepares students to safeguard digital assets. Topics include security protocols, encryption, threat analysis, and network security to ensure the protection of data and systems from cyber-attacks."
+  },
+  {
+    "title": "Foreign Language",
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80&w=800",
+    "description": "In today’s globalized world, proficiency in a foreign language is a valuable skill. This certification helps students enhance their communication abilities in different languages, opening up career opportunities in international business, diplomacy, and more."
+  },
+  {
+    "title": "AI & ML",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+    "description": "AI and ML are transforming industries worldwide. This certification covers AI fundamentals, machine learning algorithms, neural networks, natural language processing, and data modeling. Students will gain hands-on experience in implementing AI-driven solutions."
+  },
+{
+    "title": "Corporate Social Responsibility (CSR)",
+    "image": "https://images.unsplash.com/photo-1593113598332-cd288d6c9343?auto=format&fit=crop&q=80&w=800",
+    "description": "This certification provides a deep understanding of Corporate Social Responsibility (CSR) practices. Students learn how businesses can contribute to societal well-being while achieving corporate goals, with an emphasis on ethics, sustainability, and corporate governance."
+  },
+  {
+    "title": "Business Administration",
+    "image": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?auto=format&fit=crop&q=80&w=800",
+    "description": "For those aspiring to leadership and management roles, this certification provides a comprehensive understanding of business operations, management strategies, marketing, finance, and organizational behavior. It prepares students for administrative and executive roles across various industries."
+  },
+  {
+    "title": "HR Analytics",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800",
+    "description": "Gain insights into workforce trends and data-driven decision-making. This certification equips you with tools to analyze employee metrics, improve performance, and support strategic HR initiatives."
+  },
+  {
+    "title": "Salesforce Automation (SFA)",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800",
+    "description": "Master CRM tools with Salesforce Automation. Learn how to streamline sales processes, manage customer relationships, and boost productivity using one of the most widely used platforms in the industry."
+  },
+  {
+    "title": "Business Analytics",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+    "description": "Learn to interpret data and drive strategy. This certification covers key analytics tools and techniques to help you make informed business decisions and uncover new growth opportunities."
+  },
+  {
+    "title": "Power BI (Business Intelligence)",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+    "description": "Get hands-on with data visualization and reporting. This certification helps you turn raw data into actionable insights using Microsoft Power BI, a leading business intelligence platform."
+  },
+  {
+    "title": "Python for Managers",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&q=80&w=800",
+    "description": "Bridge technology and management with Python. Learn practical coding skills to automate tasks, analyze data, and enhance your strategic decision-making—no prior programming experience needed."
+  },
+  {
+    "title": "Forensic Accounting",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb27cd6c?auto=format&fit=crop&q=80&w=800",
+    "description": "Develop expertise in financial investigation. This certification introduces fraud detection, audit techniques, and legal aspects of forensic accounting, essential for modern finance and compliance roles."
+  }
+]

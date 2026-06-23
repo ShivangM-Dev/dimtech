@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "titlePrefix": "No.1 MBA College in Greater Noida | ",
+    "titleHighlight": "DIMTECH",
+    "descStart": "Are you looking for the ",
+    "descBold": "Best MBA College in Greater Noida",
+    "descEnd": "? DIMTECH offers a MBA program with industry-aligned specializations to kickstart your career in technology and management."
+  },
+  "whyChooseCourse": {
+    "title": "Why Choose a Master of Business Administration (MBA)?",
+    "intro": "In a hyper-competitive, fast-changing global economy, technical skills alone are no longer enough to climb the corporate ladder. If you have hit a glass ceiling in your career, a Master of Business Administration (MBA) is the ultimate catalyst for breaking through. An MBA is designed to facilitate a holistic transformation—shifting you from a capable specialist to a visionary corporate leader. Whether your goal is to transition into the C-suite, pivot industries, or launch a disruptive startup, this degree provides the elite framework required for high-level success.",
+    "reasons": [
+      {
+        "title": "Accelerated Career Trajectory",
+        "description": "An MBA is universally recognized as the fastest route to high-level promotions, significant salary increments, and advanced corporate roles, maximizing your educational Return on Investment (ROI)."
+      },
+      {
+        "title": "Tech & Digital Innovation",
+        "description": "Bridge the gap between business strategy and the digital economy. Learn to decode complex data, optimize operations, and lead digital transformations."
+      },
+      {
+        "title": "Global Strategic Leadership",
+        "description": "Move beyond day-to-day operations to navigate complex international markets, master cross-cultural team dynamics, and drive long-term profitability on a global stage."
+      },
+      {
+        "title": "Entrepreneurial Excellence",
+        "description": "Gain the profound market insights, financial acumen, and risk-management tools required to build, scale, and lead sustainable business models from the ground up."
+      }
+    ]
+  },
+"whyChoose": {
+    "title": "Why Choose DIMTECH for Your MBA?",
+    "subtitle": "While a standard MBA teaches management theory, DIMTECH engineers visionary global leaders. Our flagship MBA program goes beyond textbooks, blending elite academic rigor with absolute career security, next-generation technology, and profound personal growth. Here is how DIMTECH maximizes the value of your MBA:",
+    "benefits": [
+      "100% Written Placement Guarantee",
+      "Integrated AI Certification",
+      "Foreign Industrial Visit & Free Laptop",
+      "Advanced Personality Development",
+      "Fully Wi-Fi Enabled Campus"
+    ],
+    "description": "Ready to Accelerate Your Career? Elevate your trajectory, master the future of business, and secure your career. Apply today to join DIMTECH's flagship MBA program and step into the ranks of global corporate leaders.",
+    "buttonText": "Apply Now"
+  },
+  "admissionsProcess": {
+    "title": "MBA Admissions Process",
+    "description": "The admission process for the MBA is simple in 4 steps. We made student admissions seamless and smooth. Our staff members and counseling experts will guide you through each step with clarity.",
+    "steps": [
+      {
+        "icon": "form",
+        "title": "Form Filling",
+        "description": "Collect the form at the DIMTECH Campus or from the DIMTECH Information Center. Fill the form accurately and proceed with the admission."
+      },
+      {
+        "icon": "documentation",
+        "title": "Documentation",
+        "description": "Come along with your documents, such as your Graduation marksheet, [Aadhaar Redacted], and 2 passport-size photos, to proceed with further steps without any hassle."
+      },
+      {
+        "icon": "counseling",
+        "title": "Counseling Session",
+        "description": "After that, an expert counselor will guide you with specialization selection and career path, and lead you towards the right direction.",
+        "highlight": true
+      },
+      {
+        "icon": "confirmation",
+        "title": "Seat Confirmation",
+        "description": "Wait for some time. Our faculty will ensure everything is correct and official. We can proceed with your admissions. Then, pay the registration amount, and your seat confirmation will be successful."
+      }
+    ]
+  },
+  "placement": [
+    {
+      "icon": "briefcase",
+      "title": "INTERNSHIPS",
+      "description": "We provide paid internships after 1 year of the course curriculum."
+    },
+    {
+      "icon": "userCog",
+      "title": "EXPOSURE",
+      "description": "We provide a practical learning environment, live projects, international industrial tour for better exposure."
+    },
+    {
+      "icon": "users",
+      "title": "GUIDANCE",
+      "description": "We help you with specializations/electives selection guidance, expert mentorship workshops, mock interviews, and aptitude tests."
+    },
+    {
+      "icon": "fileCheck",
+      "title": "PLACEMENT",
+      "description": "100% Placement Guarantee, MNCs come to the college for placements. You need to prepare for the interview, projects, & confidence."
+    }
+  ],
+  "eligibility": {
+    "title": "MBA Eligibility Criteria",
+    "items": [
+      {
+        "icon": "badgeCheck",
+        "title": "Educational Qualification",
+        "description": "Successfully completed Graduation (a Bachelor's Degree) from a recognized university."
+      },
+      {
+        "icon": "clipboardList",
+        "title": "Accepted Streams",
+        "description": "Open to graduates from any stream (Arts, Commerce, Science, Engineering, BBA, BCA, etc.)."
+      },
+      {
+        "icon": "fileEdit",
+        "title": "Document Requirements",
+        "description": "General documents are required, such as a Graduation marksheet, [Aadhaar Redacted], and Passport-size photo."
+      }
+    ]
+  }
+}

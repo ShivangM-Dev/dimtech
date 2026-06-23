@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "titlePrefix": "Education ",
+    "titleHighlight": "Loan Assistance",
+    "description": "At DIMTECH, we are committed to helping students achieve their academic goals without financial barriers. We provide complete assistance for securing education loans through leading banks and financial institutions."
+  },
+  "support": {
+    "title": "Our Support Includes:",
+    "items": [
+      "Guidance on education loan eligibility",
+      "Assistance with required documentation",
+      "Support in preparing and submitting loan applications",
+      "Coordination with bank officials for a smooth process"
+    ],
+    "footer": "Our admissions team ensures a simple and hassle-free loan process for students and parents."
+  },
+  "process": {
+    "title": "Education Loan Process",
+    "steps": [
+      {
+        "stepNumber": "01",
+        "title": "Documentation Assistance",
+        "description": "Collect the required admission and fee-related documents from DIMTECH. Our team will guide you through the documentation process and help you prepare the necessary paperwork.",
+        "icon": "fileText"
+      },
+      {
+        "stepNumber": "02",
+        "title": "Submit Loan Application",
+        "description": "Submit the required documents and loan application to your preferred bank or financial institution.",
+        "icon": "send"
+      },
+      {
+        "stepNumber": "03",
+        "title": "Loan Processing & Approval",
+        "description": "The bank will review your application and process the loan as per its policies and eligibility criteria.",
+        "icon": "clock"
+      },
+      {
+        "stepNumber": "04",
+        "title": "Loan Disbursement",
+        "description": "Upon approval, the sanctioned loan amount will be disbursed according to the bank’s terms to support your education at DIMTECH.",
+        "icon": "landmark"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Need help with your loan application?",
+    "subtitle": "Reach out to our financial counselors for personalized guidance.",
+    "buttonText": "Contact Admissions"
+  }
+}

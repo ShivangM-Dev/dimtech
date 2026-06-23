@@ -201,7 +201,7 @@ const Hero = () => {
                 >
                   <div className="overflow-hidden space-y-5">
                     <p className="gsap-about-text-right">
-                      We offer a diverse range of specializations in our <strong className="text-foreground">Programs</strong> including <strong className="text-foreground">IT, Marketing, Finance, Business Analytics, HRM, Supply Chain & Operations Management, International Business, and AI in Predictive Analysis.</strong>
+                      We offer a diverse range of specializations in our <strong className="text-foreground">Programs</strong> including <strong className="text-foreground">IT, Marketing, Finance, Business Analytics, HRM, Operations Management, and AI in Predictive Analysis.</strong>
                     </p>
                     
                     {/* UPDATED ELIGIBILITY CRITERIA */}

@@ -1,14 +1,17 @@
 [
-  { 
-    "label": "Home", 
-    "href": "/" 
+  {
+    "label": "Home",
+    "href": "/"
   },
   {
     "label": "About",
     "children": [
       { "label": "About Us", "href": "/about_us" },
       { "label": "Chairman's Message", "href": "/chairman_message" },
-      { "label": "Our Vision & Mission", "href": "/chairman_message/#mission-vision" },
+      {
+        "label": "Our Vision & Mission",
+        "href": "/chairman_message/#mission-vision"
+      },
       { "label": "Director's Message", "href": "/director_message" },
       { "label": "Academic Council", "href": "/academic_council" },
       { "label": "Advisory Board", "href": "/advisory_board" },
@@ -19,12 +22,12 @@
   {
     "label": "Programs",
     "children": [
+      { "label": "Program Highlights", "href": "/highlights" },
       { "label": "BBA", "href": "/BBA" },
       { "label": "BCA", "href": "/BCA" },
       { "label": "MBA", "href": "/MBA" },
       { "label": "MCA", "href": "/MCA" },
-      { "label": "Certificate Programs", "href": "/certificate_programs" },
-      { "label": "Highlights", "href": "/highlights" }
+      { "label": "Certificate Programs", "href": "/certificate_programs" }
     ]
   },
   {
@@ -32,9 +35,9 @@
     "children": [
       { "label": "Selection Process", "href": "/selection_process" },
       { "label": "Eligibility Criteria", "href": "/eligibility_criteria" },
-      { "label": "Fee Structure", "href": "/fee_structure" },
+      
       { "label": "Admission Forms", "href": "/admission_forms" },
-      { "label": "Education Loan", "href": "/education_lone" }
+      { "label": "Education Loan", "href": "/education_loan" }
     ]
   },
   {

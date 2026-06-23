@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "titlePrefix": "No.1 MCA College in Greater Noida | ",
+    "titleHighlight": "DIMTECH",
+    "descStart": "Are you looking for the ",
+    "descBold": "Best MCA College in Greater Noida",
+    "descEnd": "? DIMTECH offers a MCA program with industry-aligned specializations to kickstart your career in technology and management."
+  },
+  "whyChooseCourse": {
+    "title": "Why Choose a Master of Computer Applications (MCA)?",
+    "intro": "Look around—every industry today is a tech industry. From the apps on your phone to the cloud infrastructure powering global finance, the digital world runs on code. An MCA is your elite launchpad into advanced technical leadership.",
+    "reasons": [
+      {
+        "title": "In-Demand Development Skills",
+        "description": "Dive deep into the core programming languages, modern web frameworks, and software engineering principles that top-tier tech companies are desperately looking for."
+      },
+      {
+        "title": "A Fast-Tracked Tech Career",
+        "description": "Stop waiting. IT recruiters universally recognize the MCA as the gold-standard credential for landing senior roles as a developer, technical analyst, or IT consultant."
+      },
+      {
+        "title": "Algorithmic Problem-Solving",
+        "description": "Train your brain to think like an engineer. You'll master the robust logic required to solve complex digital roadblocks and optimize software performance."
+      },
+      {
+        "title": "The Path to Tech Leadership",
+        "description": "You won't just learn to follow instructions. You'll gain the project execution skills and architectural vision required to eventually manage engineering teams."
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose DIMTECH for MCA?",
+    "subtitle": "DIMTECH Benefits and Facilities are:",
+    "benefits": [
+      "100% Placement Guarantee",
+      "Paid Internships (After 1st Year)",
+      "Live Projects & Industrial/Companies Visits",
+      "Industry-Expert Seminars & Workshops",
+      "Practical Learning Environment",
+      "Hostel Accommodation is Available",
+      "Top 20+ MNCs Placement Partners",
+      "100% Finance/Loan Assistance"
+    ],
+    "description": "Choosing DIMTECH for the MCA degree program leads to a secure and successful future. We offer all the necessary facilities, including Discussion Rooms, Library, Cafeteria, Placement Cell, Corporate Resource Cell (CRC), large parking area, and friendly environment, to make your 2-year journey memorable.",
+    "buttonText": "Apply Now"
+  },
+  
+  "admissionsProcess": {
+    "title": "MCA Admissions Process",
+    "description": "The admission process for the MCA is simple in 4 steps. We made student admissions seamless and smooth. Our staff members and counseling experts will guide you through each step with clarity.",
+    "steps": [
+      {
+        "icon": "form",
+        "title": "Form Filling",
+        "description": "Collect the form at the DIMTECH Campus or from the DIMTECH Information Center. Fill the form accurately and proceed with the admission."
+      },
+      {
+        "icon": "documentation",
+        "title": "Documentation",
+        "description": "Come along with your documents, such as your Graduation marksheet, Aadhar card, and 2 passport-size photos, to proceed with further steps without any hassle."
+      },
+      {
+        "icon": "counseling",
+        "title": "Counseling Session",
+        "description": "After that, an expert counselor will guide you with specialization selection and career path, and lead you towards the right direction.",
+        "highlight": true
+      },
+      {
+        "icon": "confirmation",
+        "title": "Seat Confirmation",
+        "description": "Wait for some time. Our faculty will ensure everything is correct and official. We can proceed with your admissions. Then, pay the registration amount, and your seat confirmation will be successful."
+      }
+    ]
+  },
+  "placement": [
+    {
+      "icon": "briefcase",
+      "title": "INTERNSHIPS",
+      "description": "We provide paid internships after 1 year of the course curriculum."
+    },
+    {
+      "icon": "userCog",
+      "title": "EXPOSURE",
+      "description": "We provide a practical learning environment, live projects, international industrial tour for better exposure."
+    },
+    {
+      "icon": "users",
+      "title": "GUIDANCE",
+      "description": "We help you with specializations/electives selection guidance, expert mentorship workshops, mock interviews, and aptitude tests."
+    },
+    {
+      "icon": "fileCheck",
+      "title": "PLACEMENT",
+      "description": "100% Placement Guarantee, MNCs come to the college for placements. You need to prepare for the interview, projects, & confidence."
+    }
+  ],
+  "eligibility": {
+    "title": "Eligibility Criteria",
+    "items": [
+      {
+        "icon": "badgeCheck",
+        "title": "Minimum Marks",
+        "description": "Graduation with 50% marks (5% relaxation for SC/ST candidates)."
+      },
+      {
+        "icon": "clipboardList",
+        "title": "No Entrance",
+        "description": "No Entrance Exam Needed. CMAT, CAT, etc., if you have not taken these exams. We conduct our DIMTECH Aptitude Test (DMAT) for admissions."
+      },
+      {
+        "icon": "fileEdit",
+        "title": "Document Requirements",
+        "description": "General documents are required, such as a Graduation marksheet, Aadhar ID, and Passport-size photo."
+      }
+    ]
+  }
+}

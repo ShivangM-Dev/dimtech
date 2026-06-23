@@ -1,0 +1,23 @@
+[
+  {
+    "title": "DATA Analyst",
+    "icon": "settings",
+    "iconColor": "text-green-500",
+    "bgColor": "bg-green-100",
+    "description": "A BCA in Data Analytics is a 2-year postgraduate program designed to equip students with skills in data mining, statistics, machine learning, and visualization. It focuses on extracting insights from complex datasets using tools like Python, R, and SQL."
+  },
+  {
+    "title": "Cooperative Management",
+    "icon": "users",
+    "iconColor": "text-orange-500",
+    "bgColor": "bg-orange-100",
+    "description": "Learn the art of managing societies through democratic systems and laws. Gain knowledge about the principles and practices of co-operation, co-operative legislation, and credit co-operatives. Master etiquette, working style, developing rules and regulations."
+  },
+  {
+    "title": "Information Technology",
+    "icon": "monitor",
+    "iconColor": "text-blue-500",
+    "bgColor": "bg-blue-100",
+    "description": "Learn the latest technologies, IT fundamentals, databases, software tools, and create an impact on the businesses around you. Develop machines and build new things with DIMTECH's practical exposure."
+  }
+]

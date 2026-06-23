@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "titlePrefix": "Program ",
+    "titleHighlight": "Eligibility Criteria",
+    "description": "At DIMTECH, our students are our greatest assets. That’s why we carefully select candidates who have the potential to thrive and excel in our program."
+  },
+  "programs": [
+    {
+      "icon": "briefcase",
+      "title": "MBA",
+      "fullName": "Master of Business Administration",
+      "requirements": [
+        {
+          "title": "Educational Qualification",
+          "description": "Successfully completed Graduation (a Bachelor's Degree) from a recognized university."
+        },
+        {
+          "title": "Accepted Streams",
+          "description": "Open to graduates from any stream (Arts, Commerce, Science, Engineering, BBA, BCA, etc.)."
+        },
+        {
+          "title": "Document Requirements",
+          "description": "General documents are required, such as a Graduation marksheet, [Aadhaar Redacted], and Passport-size photo."
+        }
+      ]
+    },
+    {
+      "icon": "monitor",
+      "title": "MCA",
+      "fullName": "Master of Computer Applications",
+      "requirements": [
+        {
+          "title": "Minimum Marks",
+          "description": "10+2 in any stream with 50% marks (5% relaxation for SC/ST candidates)."
+        },
+        {
+          "title": "No Entrance",
+          "description": "No Entrance Exam Needed. We conduct our DIMTECH Aptitude Test (DMAT) for admissions."
+        },
+        {
+          "title": "Document Requirements",
+          "description": "General documents are required, such as a 10+2 marksheet, [Aadhaar Redacted], and Passport-size photo."
+        }
+      ]
+    },
+    {
+      "icon": "presentation",
+      "title": "BBA",
+      "fullName": "Bachelor of Business Administration",
+      "requirements": [
+        {
+          "title": "Minimum Marks",
+          "description": "10+2 in any stream with 50% marks (5% relaxation for SC/ST candidates)."
+        },
+        {
+          "title": "No Entrance",
+          "description": "No Entrance Exam Needed. We conduct our DIMTECH Aptitude Test (DMAT) for admissions."
+        },
+        {
+          "title": "Document Requirements",
+          "description": "General documents are required, such as a 10+2 marksheet, [Aadhaar Redacted], and Passport-size photo."
+        }
+      ]
+    },
+    {
+      "icon": "laptop",
+      "title": "BCA",
+      "fullName": "Bachelor of Computer Applications",
+      "requirements": [
+        {
+          "title": "Educational Qualification",
+          "description": "Successfully passed 10+2 (12th Grade) from any recognized educational board."
+        },
+        {
+          "title": "Accepted Streams",
+          "description": "We welcome students from any stream (Arts, Commerce, or Science)."
+        },
+        {
+          "title": "Subject Requirement",
+          "description": "You must have studied and passed Mathematics in your 10th Grade."
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "title": "Let’s grow together!",
+    "subtitle": "Your journey to a successful career begins here. Apply to our program and take a transformative step toward your future.",
+    "buttonText": "Apply Now"
+  }
+}

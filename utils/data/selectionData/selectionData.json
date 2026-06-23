@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "titlePrefix": "Admission ",
+    "titleHighlight": "Selection Process",
+    "description": "At DIMTECH, we follow a rigorous yet transparent selection process to ensure we identify candidates with the potential to excel in our Management Courses. Aspiring students undergo multiple stages of assessment to showcase their academic and professional competencies."
+  },
+  "selectionProcess": {
+    "title": "Here’s a step-by-step guide to our selection process:",
+    "steps": [
+      {
+        "icon": "form",
+        "stepNumber": "01",
+        "title": "Application Form Submission",
+        "description": "Application forms are available both online and offline through our admission portal.",
+        "details": []
+      },
+      {
+        "icon": "screening",
+        "stepNumber": "02",
+        "title": "Screening of Application Forms",
+        "description": "Our admission team meticulously reviews each application form, and shortlisting is based on:",
+        "details": [
+          "Academic Records: Consistent and strong performance in previous academic pursuits.",
+          "Relevant Work Experience (if any): Professional experience that adds value to the candidate's profile."
+        ]
+      },
+      {
+        "icon": "test",
+        "stepNumber": "03",
+        "title": "Competitive Entrance Test",
+        "description": "Applicants must have attempted at least one of the following competitive exams: CMAT / CAT / MAT / XAT / NMAT. Candidates who have not appeared for any of the listed exams must take the DIMTECH Aptitude Test (DMAT), a 45-minute aptitude test designed on the CAT pattern.",
+        "details": []
+      },
+      {
+        "icon": "discussion",
+        "stepNumber": "04",
+        "title": "Group Discussion (GD)",
+        "description": "Shortlisted candidates are invited for a Group Discussion, conducted virtually or on campus.",
+        "details": [
+          "Topics are provided by one of the panelists.",
+          "This stage assesses communication skills, teamwork, and analytical abilities."
+        ]
+      },
+      {
+        "icon": "interview",
+        "stepNumber": "05",
+        "title": "Personal Interview (PI)",
+        "description": "Candidates who clear the GD stage are invited for a Personal Interview, conducted by a panel of two experienced professionals.",
+        "details": [
+          "This stage evaluates the candidate’s motivation, personality, and alignment with the program’s goals."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Have questions about the DMAT pattern or GD stages?",
+    "subtitle": "Our admissions counseling experts are here to clear your path forward.",
+    "buttonText": "Apply Now"
+  }
+}
