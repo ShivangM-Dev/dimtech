@@ -47,5 +47,14 @@
       { "label": "Corporate Faculty", "href": "/corporate_faculty" },
       { "label": "Corporate Council", "href": "/corporate_council" }
     ]
+  },
+  {
+    "label": "Affiliations",
+    "href": "/affiliations"
+  },
+  {
+    "label": "Training",
+    "href": "/training"
   }
+
 ]

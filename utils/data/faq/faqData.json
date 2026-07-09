@@ -1,0 +1,204 @@
+{
+  "faqCategories": [
+    { "id": "admissions", "label": "Admissions & Eligibility", "icon": "GraduationCap" },
+    { "id": "courses", "label": "Courses & Curriculum", "icon": "BookOpen" },
+    { "id": "fees", "label": "Fees & Scholarships", "icon": "Wallet" },
+    { "id": "placements", "label": "Placements & Internships", "icon": "Briefcase" },
+    { "id": "hostel", "label": "Hostel & Campus Life", "icon": "Home" },
+    { "id": "facilities", "label": "Facilities & Support Services", "icon": "Shield" },
+    { "id": "examinations", "label": "Examinations & Attendance", "icon": "FileCheck" },
+    { "id": "international", "label": "International Students / NRI Queries", "icon": "Globe" },
+    { "id": "alumni", "label": "Alumni & Career Guidance", "icon": "Users" },
+    { "id": "general", "label": "General Information", "icon": "Info" }
+  ],
+  "faqsData": {
+    "admissions": [
+      {
+        "q": "What are the eligibility criteria for each program?",
+        "a": "For undergraduate programs (BBA, BCA), you need a 10+2 qualification with at least 50% marks from a recognized board. For postgraduate programs (MBA, MCA, PGDM), we require a bachelor's degree with a minimum of 50% (45% for SC/ST candidates), along with a valid score in CMAT, CAT, XAT, MAT, NMAT, or our own DIMTECH Aptitude Test (DMAT)."
+      },
+      {
+        "q": "What is the admission process?",
+        "a": "The process is simple: apply online, upload your required documents, and appear for a personal interview or the DMAT entrance test. Once selected, you can secure your seat by paying the first fee installment."
+      },
+      {
+        "q": "Which documents are needed for the application?",
+        "a": "Please keep the following ready: your 10th and 12th marksheets, graduation degree (if applying for PG), a valid government ID, 8 passport-size photographs, and your entrance exam scorecard (if applicable)."
+      },
+      {
+        "q": "When is the last date for admissions?",
+        "a": "Admissions typically remain open until August of each academic year. However, seats fill up quickly, so we highly recommend applying early."
+      },
+      {
+        "q": "Can international students apply?",
+        "a": "Absolutely. Foreign and NRI students are welcome and can apply directly through our international admissions cell, subject to standard passport and visa verification."
+      },
+      {
+        "q": "How can I check my application status?",
+        "a": "You can track your status anytime by logging into the admissions portal. Alternatively, feel free to contact our admissions office at +91 9289400945 or email info@dimtech.org."
+      },
+      {
+        "q": "Can I change my course after admission?",
+        "a": "Yes, course changes (e.g., from BBA to BCA) are permitted within the first semester. This is subject to seat availability and final approval from the academic department."
+      }
+    ],
+    "courses": [
+      {
+        "q": "Is the PGDM course AICTE-approved and industry-relevant?",
+        "a": "Yes, our PGDM program is fully AICTE-approved. We actively collaborate with industry leaders to design a curriculum that meets current market demands."
+      },
+      {
+        "q": "Are dual specializations available in PGDM or MBA?",
+        "a": "Yes, we offer dual specializations to give you a competitive edge. Popular combinations include Marketing & Finance, and HR & Business Analytics."
+      },
+      {
+        "q": "How often is the PGDM curriculum updated?",
+        "a": "We review and update the curriculum annually to ensure it reflects the latest trends in business and technology."
+      },
+      {
+        "q": "Are soft-skill sessions part of the program?",
+        "a": "Absolutely. We host regular sessions focused on communication, public speaking, and overall personality development to make you corporate-ready."
+      },
+      {
+        "q": "Are extra certifications available?",
+        "a": "Yes, students have access to over 30 value-added certification programs, including Digital Marketing, Python, and Data Analytics."
+      }
+    ],
+    "fees": [
+      {
+        "q": "What is the total fee for each program?",
+        "a": "Our complete, updated fee structure is published annually. Please refer to the official fee page on our website for a detailed breakdown."
+      },
+      {
+        "q": "Are scholarships available for students?",
+        "a": "Yes, we offer scholarships of up to 50% to support our students. These are awarded based on academic merit, exceptional sports achievements, or financial need."
+      },
+      {
+        "q": "Is there a refund policy?",
+        "a": "DIMTECH maintains a strict non-refundable policy once your admission is confirmed and fees are paid."
+      },
+      {
+        "q": "How are examination or academic changes communicated?",
+        "a": "All important updates, including exam fee schedules and academic calendar changes, are posted well in advance on the student portal and campus notice boards."
+      }
+    ],
+    "placements": [
+      {
+        "q": "Which courses include placement assistance?",
+        "a": "All our major programs, including PGDM, MBA, BBA, and BCA, come with 100% placement assistance and comprehensive job-readiness training."
+      },
+      {
+        "q": "Who is eligible for placement assistance?",
+        "a": "Students who maintain a minimum of 75% attendance, clear all their academic papers, and complete their required internships on time are fully eligible for placement support."
+      },
+      {
+        "q": "How will the college help me get a placement?",
+        "a": "Our dedicated placement cell proactively prepares you through mock interviews, aptitude training, and company-specific workshops before the final recruitment drives begin."
+      },
+      {
+        "q": "What salary packages can I expect?",
+        "a": "Our graduates typically secure average packages ranging between ₹6 LPA and ₹10 LPA, depending on the specific course, chosen specialization, and recruiting company."
+      },
+      {
+        "q": "How much are internships paid?",
+        "a": "While it varies by role and location, our students generally secure paid internships offering between ₹10,000 and ₹25,000 per month."
+      },
+      {
+        "q": "When do internship offers start?",
+        "a": "Internship placements typically kick off during the second semester for postgraduate programs, and the fifth semester for undergraduate programs."
+      },
+      {
+        "q": "Are MNCs available for placements?",
+        "a": "Yes, our campus recruiters include top-tier global companies like Deloitte, Infosys, IBM, HDFC, and many others."
+      }
+    ],
+    "hostel": [
+      {
+        "q": "Is hostel accommodation free?",
+        "a": "No, hostel facilities are provided at an additional cost, with annual packages starting from ₹90,000."
+      },
+      {
+        "q": "How will the college help me find an affordable hostel?",
+        "a": "If our on-campus housing is full or beyond your budget, our hostel office will happily assist you in finding safe, budget-friendly options near the campus through our approved housing partners."
+      },
+      {
+        "q": "What does campus life include?",
+        "a": "DIMTECH offers a vibrant campus experience featuring full Wi-Fi coverage, modern smart classrooms, a well-stocked library, a lively cafeteria, and diverse cultural and technical clubs."
+      }
+    ],
+    "facilities": [
+      {
+        "q": "What facilities are available for students?",
+        "a": "Our campus is fully equipped with smart classrooms, advanced computer labs, a comprehensive library, a cafeteria, a dedicated medical room, transport services, and excellent sports facilities."
+      },
+      {
+        "q": "Does the college support students after course completion?",
+        "a": "Yes, your relationship with DIMTECH continues after graduation. We provide ongoing alumni support, including exclusive job updates and networking events."
+      },
+      {
+        "q": "How can students resolve queries quickly?",
+        "a": "We have multiple support channels. You can visit the student helpdesk, speak directly with your academic coordinator, or raise a ticket on our 24/7 online grievance portal."
+      }
+    ],
+    "examinations": [
+      {
+        "q": "What is the minimum attendance required?",
+        "a": "We require students to maintain a minimum of 75% attendance in every subject to be eligible for final examinations."
+      },
+      {
+        "q": "What if a student does not meet the minimum attendance?",
+        "a": "Students falling below the 75% threshold may be barred from taking exams or required to repeat the semester, in line with university regulations."
+      },
+      {
+        "q": "What is the minimum passing percentage?",
+        "a": "To pass, you must secure a minimum of 40% in each individual subject and maintain an overall aggregate of 50%."
+      },
+      {
+        "q": "What if a student fails in any course?",
+        "a": "Don't worry—students have the opportunity to clear their backlogs by reappearing in supplementary exams, which are held shortly after the main semester exams."
+      }
+    ],
+    "international": [
+      {
+        "q": "Can international students apply for DIMTECH courses?",
+        "a": "Yes, DIMTECH proudly accepts international applications through our dedicated global admissions desk."
+      },
+      {
+        "q": "What additional documents are required for NRI students?",
+        "a": "In addition to standard academic records, NRI and foreign students must provide a valid passport, a student visa, an equivalence certificate, and verifiable proof of financial support."
+      }
+    ],
+    "alumni": [
+      {
+        "q": "What is career guidance and how does it help?",
+        "a": "Our career guidance program helps you identify your professional goals, prepares you thoroughly for interviews, and maps out the best possible career trajectory for your skills."
+      },
+      {
+        "q": "Does the college have mentorship programs?",
+        "a": "Absolutely. Every student is personally paired with a mentor—drawn from our faculty or our extensive alumni network—to provide continuous guidance and support."
+      },
+      {
+        "q": "What kind of alumni network does the college have?",
+        "a": "DIMTECH boasts a highly active and influential alumni association, with graduates working across top multinational companies and innovative startups both in India and globally."
+      }
+    ],
+    "general": [
+      {
+        "q": "Where is DIMTECH located?",
+        "a": "Our campus is situated at Plot No. 30/5 & 30/6, Knowledge Park III, Greater Noida, Uttar Pradesh (201310). We are conveniently located near the metro station and major commercial hubs."
+      },
+      {
+        "q": "What are the contact details?",
+        "a": "You can reach us via email at info@dimtech.org, call us on +91 9289400945, or use our toll-free landline: 1800 270 7021."
+      },
+      {
+        "q": "What accreditation does the college have?",
+        "a": "DIMTECH is fully AICTE-approved and proudly affiliated with a recognized state university, ensuring your degree holds immense value."
+      },
+      {
+        "q": "Does the college have multiple branches?",
+        "a": "No, to maintain our high standards of quality and focus, DIMTECH operates from a single, state-of-the-art campus in Greater Noida."
+      }
+    ]
+  }
+}

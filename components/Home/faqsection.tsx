@@ -7,6 +7,7 @@ import { ChevronDown } from 'lucide-react';
 
 // Import your JSON data
 import faqData from '@/utils/data/faqs.json';
+import EnquiryForm from '../form/enquiryForm';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -119,27 +120,17 @@ const FaqSection: React.FC = () => {
               RIGHT COLUMN: FORM PLACEHOLDER (Spans 5 cols)
           ========================================== */}
           <div className="lg:col-span-5 xl:col-span-4 gsap-form-card">
-            <div className="sticky top-24 rounded-2xl bg-white p-6 shadow-xl ring-1 ring-slate-200 sm:p-8">
+            {/* <div className="sticky top-24 rounded-2xl bg-white p-6 shadow-xl ring-1 ring-slate-200 sm:p-8"> */}
               
-              <h3 className="mb-6 text-2xl font-extrabold tracking-tight text-slate-900">
-                ENQUIRE NOW
-              </h3>
-              
+        
               {/* --- PLACEHOLDER FOR FUTURE FORM COMPONENT --- */}
-              <div className="flex min-h-[400px] w-full flex-col items-center justify-center rounded-xl border-2 border-dashed border-slate-200 bg-slate-50 p-6 text-center">
-                <div className="mb-4 rounded-full bg-primary/10 p-3 text-primary">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
-                </div>
-                <p className="text-sm font-semibold text-slate-500">
-                  Enquiry Form Component goes here
-                </p>
-                <p className="mt-2 text-xs text-slate-400">
-                  Import and place your `&lt;EnquiryForm /&gt;` here later.
-                </p>
-              </div>
+            
+                
+                  <EnquiryForm />
+             
               {/* ------------------------------------------- */}
 
-            </div>
+            {/* </div> */}
           </div>
 
         </div>
